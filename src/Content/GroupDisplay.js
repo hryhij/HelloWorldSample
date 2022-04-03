@@ -38,7 +38,7 @@ function GroupDisplay({Igroups}) {
                             <box-icon name='news' type='solid' style={{ fill: '#64b5f6' }}></box-icon>
                         </IconButton>
 
-                        <IconButton  title='CONVO' >
+                        <IconButton  title='CONVOs' >
                             <box-icon name='message-dots'  style={{ fill: '#64b5f6' }}></box-icon>
                         </IconButton>
                     </CardActions>
