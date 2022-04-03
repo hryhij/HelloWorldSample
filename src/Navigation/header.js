@@ -14,6 +14,7 @@ function Header() {
                 <Link to='/' className='inavlink btn btn-outline-secondary'>Home</Link>
                 <Link to='/Post' className='inavlink btn btn-outline-secondary'>Posts</Link>
                 <Link to='/Groups' className='inavlink btn btn-outline-secondary'>Groups</Link>
+                <Link to='/AddGroups' className='inavlink btn btn-outline-secondary'>Add Groups</Link>
                 <Link to='/AddPost' className='inavlink btn btn-outline-secondary'><i className="bx bx-message-square-add"></i> Add post</Link>
                 <a className='inavlink btn btn-outline-secondary'>About</a>
             </div>

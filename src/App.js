@@ -4,6 +4,7 @@ import Home from './Content/Home'
 import Post from './Content/Post'
 import AddPost from './Content/AddPost'
 import Groups from './Content/Groups'
+import AddGroup from './Content/AddGroup'
 import { BrowserRouter as Router, Route , Switch} from 'react-router-dom'
 import Container from '@mui/material/Container';
 
@@ -27,6 +28,9 @@ function App() {
               </Route>
               <Route path='/Groups'>
                 <Groups />
+              </Route>
+              <Route path='/AddGroup'>
+                <AddGroup />
               </Route>
               
             </Switch>
