@@ -1,0 +1,18 @@
+
+.inavbar-links{
+    /*float:right;*/
+    font-size: large;
+    
+}
+.projname{
+    font-family: Nunito;
+    font-weight: bold;
+   align-self: center;
+}
+.inavlink{
+    margin: 5px;
+}
+.inavbar{
+    box-shadow: 0 4px 8px -6px lightblue;
+    margin-bottom: 30px;
+}

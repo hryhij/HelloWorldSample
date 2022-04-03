@@ -1,0 +1,60 @@
+{
+  "PostTable": [
+    {
+      "id": "1",
+      "postTitle": "Winwin",
+      "postSub": "WayV member,former NCT member",
+      "postDetail": "He was born in Wenzhou, Zhejiang, People’s Republic of China",
+      "postPriority": "1",
+      "postDP": "winwin.jpg"
+    },
+    {
+      "id": "2",
+      "postTitle": "Jay (제이)",
+      "postSub": "Enhypen Member",
+      "postDetail": "He was born in Seattle, Washington, U.S but moved to Korea when he was 9 years old.",
+      "postPriority": "3",
+      "postDP": "jay.jpg"
+    },
+    {
+      "id": "3",
+      "postTitle": "Winwin",
+      "postSub": "WayV member,former NCT member",
+      "postDetail": "He was born in Wenzhou, Zhejiang, People’s Republic of China",
+      "postPriority": "1",
+      "postDP": "winwin.jpg"
+    },
+    {
+      "id": "4",
+      "postTitle": "Jungwon",
+      "postSub": "Enhypen Member/Leader",
+      "postDetail": "He has a pet dog named Maeumi, who is named after the dog in the drama Heart Is.",
+      "postPriority": "2",
+      "postDP": "jungwon.jpg"
+    },
+    {
+      "id": "5",
+      "postTitle": " Jeno (제노)",
+      "postSub": "NCT member",
+      "postDetail": "Education: Seoul School of Performing Arts",
+      "postPriority": "0",
+      "postDP": "jeno.jpg"
+    },
+    {
+      "postTitle": "Jaemin",
+      "postSub": "NCT Member",
+      "postDetail": "s asjnvosakvnsldklkdfsdfsdfsdf",
+      "postPriority": "2",
+      "id": "9NrEKLm",
+      "postDP": "jaemin.jpg"
+    },
+    {
+      "postTitle": "Sunghoon (성훈)",
+      "postSub": "Enhypen Member",
+      "postDetail": "Penguins is Sunghoon’s fandom name created by fans.",
+      "postPriority": "2",
+      "id": "FpHXHwt",
+      "postDP": "sunghoon.jpg"
+    }
+  ]
+}
